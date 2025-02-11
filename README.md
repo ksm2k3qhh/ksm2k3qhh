@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ksm2k3qhh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ksm2k3qhh&theme=radical&hide_border=false)<br/>
-<span align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksm2k3qhh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</span>
+<span style="align: center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksm2k3qhh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</span>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ksm2k3qhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
