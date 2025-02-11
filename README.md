@@ -1,5 +1,5 @@
 # 💫 About Me:
-An IT Business Analyst with passion about coding
+An IT Business Analyst with a passion about coding
 
 
 ## 🌐 Socials:
