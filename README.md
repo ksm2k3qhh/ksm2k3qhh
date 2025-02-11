@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm KSM</h1><h3 align="center">An IT Business Analyst from void with a passion about coding =))</h3>
 
 
-## 🌐 You can connect me below:
+# 🌐 You can connect me below:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chienngo.ueh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___elg__ksm___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chienngo) 
 
 # 💻 Tech Stack:
