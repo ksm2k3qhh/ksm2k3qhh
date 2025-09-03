@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm KSM</h1><h3 align="center">An IT Business Analyst from void =))</h3>
+<h1 align="center">Hi 👋, I'm KSM</h1><h3 align="center"></h3>
 
 
 # 🌐 You can connect me below:
